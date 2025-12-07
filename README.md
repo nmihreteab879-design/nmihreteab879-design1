@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/nmihreteab879-design1/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nmihreteab879-design1cc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nmihreteab879-design1/azure-network-protocols)
+## osTicket 
+ - osTicket post install configuration project: https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration
+ - osTicket lifcycle project: https://github.com/nmihreteab879-design/Ticket-Lifecycle
+   
+## Network file shares and permissions
+  -Network files shares lab project: https://github.com/nmihreteab879-design/network-file-share-lab
 
 <h2>🤳Connect with me:</h2>
 
