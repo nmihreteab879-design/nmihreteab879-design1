@@ -3,10 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 ## osTicket 
+
  - osTicket post install configuration project: https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration
  - osTicket lifcycle project: https://github.com/nmihreteab879-design/Ticket-Lifecycle
    
 ## Network file shares and permissions
+
   -Network files shares lab project: https://github.com/nmihreteab879-design/network-file-share-lab
 
 <h2>🤳Connect with me:</h2>
