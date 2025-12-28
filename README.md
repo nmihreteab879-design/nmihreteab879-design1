@@ -5,7 +5,7 @@
 ## osTicket 
 
  - osTicket configuration project: https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration
- - osTicket lifcycle project: https://github.com/nmihreteab879-design/Ticket-Lifecycle
+ - osTicket lifcycle project: https://github.com/nmihreteab879-design/Ticket-Lifecycle-
    
 ## Network file shares and permissions
 
