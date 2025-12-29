@@ -4,12 +4,12 @@
 
 ## osTicket 
 
- - osTicket configuration project: https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration
- - osTicket lifcycle project: https://github.com/nmihreteab879-design/Ticket-Lifecycle-
+ - osTicket configuration lab: https://github.com/osTicket-Post-Installation-Configuration
+ - osTicket lifcycle lab: https://github.com/Ticket-Lifecycle
    
 ## Network file shares and permissions
 
-  -Network files shares lab project: https://github.com/nmihreteab879-design/network-file-share-lab
+  -Network files shares lab: https://github.com/network-file-share-lab
 
 <h2>🤳Connect with me:</h2>
 
