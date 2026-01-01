@@ -9,7 +9,7 @@
    
 ## Network file shares and permissions
 
-  -Network files shares lab: https://github.com/network-file-share-lab https://github.com/nmihreteab879-design/network-file-share-lab
+  -Network files shares lab: https://github.com/nmihreteab879-design/network-file-share-lab
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Natnael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
