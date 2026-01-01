@@ -5,7 +5,7 @@
 ## osTicket 
 
  - osTicket configuration lab: https://github.com/osTicket-Post-Installation-Configuration
- - osTicket lifcycle lab: https://github.com/Ticket-Lifecycle
+ - osTicket lifcycle lab: https://github.com/nmihreteab879-design/Ticket-Lifecycle-/edit/main/README.md
    
 ## Network file shares and permissions
 
